@@ -9,7 +9,7 @@ A sleek, modern chat interface where users can directly communicate with the AI.
 - Real-time answers augmented with exact citations and document source snippets.
 - Built-in **Text-to-Speech** (Read Aloud) functionalities.
 
-*Screenshot placeholder (Add your Chat Interface Light/Dark image here)*
+
 ![Chat Interface](./screenshots/chat.png)
 
 ### 2. 🕸️ Dynamic Knowledge Graph
@@ -18,7 +18,7 @@ A specialized feature designed to bring transparency to AI.
 - Maps entity relationships using interactive node connections.
 - Allows users to visually trace exactly where the AI is sourcing its knowledge clusters.
 
-*Screenshot placeholder (Add your Knowledge Graph image here)*
+
 ![Knowledge Graph](./screenshots/knowledge-graph.png)
 
 ### 3. 📂 Seamless File Upload
@@ -26,7 +26,7 @@ An intuitive Drag-and-Drop zone for expanding the AI's "Brain".
 - Supported auto-parsing formats: `PDF`, `TXT`, `DOCX`.
 - Files are chunked and converted into vector embeddings instantly upon upload.
 
-*Screenshot placeholder (Add your Upload Interface image here)*
+
 ![File Upload](./screenshots/upload.png)
 
 ### 4. 🌗 Dark / Light Mode
