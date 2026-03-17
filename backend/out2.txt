@@ -1,0 +1,6 @@
+Found 1 docs to reprocess.
+Reprocessing sample-sop.txt...
+Done processing sample-sop.txt
+Found 1 docs to reprocess.
+Reprocessing sample-sop.txt...
+Done processing sample-sop.txt

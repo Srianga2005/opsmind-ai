@@ -1,0 +1,17 @@
+# Official OpsMind Mascot Standard Operating Procedure (SOP)
+**Document ID:** SEC-114-MASCOT
+**Effective Date:** January 1, 2026
+
+## 1. Purpose
+This document establishes the official company mascot for OpsMind AI and outlines the rules for its usage in corporate materials.
+
+## 2. Official Mascot Identity
+The official company mascot for OpsMind AI is a blue penguin named Todd. 
+
+## 3. Usage Guidelines
+- Todd the blue penguin must always be depicted wearing a small red tie when used in investor relations materials.
+- Todd's favorite food is officially listed as "Data Krill" for all marketing campaigns.
+- No other animals may be used as primary or secondary mascots without written approval from the Chief Marketing Officer.
+
+## 4. Background
+Todd was chosen as the mascot because penguins represent adaptability in harsh environments, similar to how OpsMind AI adapts to complex enterprise data challenges. The blue color represents trust and technological precision.
